@@ -32,3 +32,6 @@ Made by [Caitlin Leonard](https://github.com/caitlin-leonard)
 **Instructors:** Prof. Ponnurangam Kumaraguru, Prof. Balaraman Ravindran, Prof. Arun Rajkumar  
 **Course Link:** [NPTEL Course Page](https://onlinecourses.nptel.ac.in/e-learning/course/noc26_cs145)
 
+## License
+These notes are released under [The Unlicense](https://unlicense.org/).
+Free to use, share, and adapt — no attribution required.
