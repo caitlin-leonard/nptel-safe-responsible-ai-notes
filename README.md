@@ -1,0 +1,1 @@
+# nptel-safe-responsible-ai-notes
