@@ -27,12 +27,9 @@ Made by [Caitlin Leonard](https://github.com/caitlin-leonard)
 
 ---
 
-**Course:** Responsible & Safe AI Systems
-
-**Offered by:** IIIT Hyderabad & IIT Madras
-
-**Instructors:** Prof. Ponnurangam Kumaraguru, Prof. Balaraman Ravindran, Prof. Arun Rajkumar
-
+**Course:** Responsible & Safe AI Systems  
+**Offered by:** IIIT Hyderabad & IIT Madras  
+**Instructors:** Prof. Ponnurangam Kumaraguru, Prof. Balaraman Ravindran, Prof. Arun Rajkumar  
 **Course Link:** [NPTEL Course Page](https://onlinecourses.nptel.ac.in/e-learning/course/noc26_cs145)
 
 
