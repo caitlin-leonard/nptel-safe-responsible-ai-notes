@@ -4,8 +4,6 @@ Concise, exam-focused weekly revision notes for the NPTEL Safe and Responsible A
 
 Made by [Caitlin Leonard](https://github.com/caitlin-leonard)
 
----
-
 ![Sample Notes Preview](img/sample-preview.png)
 
 ---
@@ -28,6 +26,12 @@ Made by [Caitlin Leonard](https://github.com/caitlin-leonard)
 | Week 12 | [View Notes](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/caitlin-leonard/nptel-safe-responsible-ai-notes/main/Week12_Safe_Responsible_AI_Notes.pdf) |
 
 ---
+
+**Course:** Responsible & Safe AI Systems
+**Offered by:** IIIT Hyderabad & IIT Madras
+**Instructors:** Prof. Ponnurangam Kumaraguru, Prof. Balaraman Ravindran, Prof. Arun Rajkumar
+**Course Link:** [NPTEL Course Page](https://onlinecourses.nptel.ac.in/e-learning/course/noc26_cs145)
+
 
 ## License
 These notes are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
